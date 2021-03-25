@@ -8,3 +8,5 @@ Code samples can also be downloaded through the [SitePoint's Premium](https://si
 Handouts are available via the first lesson of a course as .md files.
 
 **Happy Learning!**
+
+teste
